@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "ddc96b08f1a32a08edd9b8e34257b9a37ea9b3836ae4371e26f54c4ade4fe3f1"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
@@ -106,6 +111,11 @@ hash = "3024f2fc12f88f8f5a0e45d09d19be19b5e8ff8ccd5df168dbe53c4c7cb0fc97"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "3750aa5e0f26b0a27ccd97ca1bdd38d05607789d24320e4837a8c128428eb070"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "019737abe9c9d7ef3638556e810babc2a3258a5c9be6cc15b79f780e71db7fa9"
 metafile = true
@@ -113,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/replantment.pw.toml"
 hash = "425fd854f190c77fb879cb8976bd44de2ccf209c3424da37142bf61c20034621"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
 
 [[files]]
@@ -128,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "2520b331c2b0eb582b448c4ebf1a73d66d42184acc2d74912baef4140e05ee9b"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "7c3e4630b35b3525d740be5b81b69af1462c8431a617233f9b0dadebb28a4f54"
 metafile = true
 
 [[files]]
