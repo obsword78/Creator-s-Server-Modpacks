@@ -1,0 +1,141 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
+metafile = true
+
+[[files]]
+file = "mods/armor-stands.pw.toml"
+hash = "95af66e81e1a34bcbda86cc45ad2fa6c94e94ebe62b186720a4271c754c9178f"
+metafile = true
+
+[[files]]
+file = "mods/async.pw.toml"
+hash = "7bdcd8deb71b5655deff932e22836aa937a2367d9687b2ebf668c3f0b6914f25"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "bc4ce5c913b803da7e696c527332f4862092e747d815595b3afc9eae330f03ba"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "b378b733c6d13952563569b5a9690d2e550618beecd613706ab41c2f00207bad"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "717d8ac591dba59be4767a179e1359747561e54ccfcac42161fd6bf54339a78b"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "b683db7d507c3bac95b1ba7664d49062d59bea8e4ab131d7d1ceac4a8994298f"
+metafile = true
+
+[[files]]
+file = "mods/configurable-despawn-timer.pw.toml"
+hash = "4a622549b0184f6111a3e63c1521854e2d3127931ff40ed89164a2afb08c96e5"
+metafile = true
+
+[[files]]
+file = "mods/express-carts.pw.toml"
+hash = "619f8793a94078a0c542de189bcac72aec1af407c18d0fb7a2171307a209f23e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "7b7117e95298b236de3a02c8d7088468975790b51432943de2dab38066816406"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "7345effda3ffcc376275666335af5b8a504887d1e95d13b257cb7e44695ba1aa"
+metafile = true
+
+[[files]]
+file = "mods/fast-item-frames.pw.toml"
+hash = "48f55fd4cffb3c03e3dc9e408a2adb82cbebd6bd1273cfd380a0b1a605a91c7a"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "19b5a6351ca8f850ddb22e07cdae9d83138aaff17a75b21c88b6e0a2b4fb530a"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "fceeee5b54a4cbdf5bddf6a7d12739d9bf3a1c59ee6608211b0c6fbde91b740f"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "e87a4eb7527e13fab94b671ce1d267cfc4d6093a3c3c1fbab7f135fb413727dc"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "7fc67cabd5de89ebe9d7d995cdf160ceff0572c2bef784e846675976a428c9fa"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "b130da9dc12637527175f1dac2662392b143748bb2d7947bb52a6e871a6c2e91"
+metafile = true
+
+[[files]]
+file = "mods/more-shield-variants.pw.toml"
+hash = "197f05cd7c1264bff036aeb2005ab89a9c9b5936742f6fb4335654229d804057"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "70d7b2bca719eca2b3a1447228b868abdc633c38121652d49f4e34380c44339d"
+metafile = true
+
+[[files]]
+file = "mods/noisiumforked.pw.toml"
+hash = "3024f2fc12f88f8f5a0e45d09d19be19b5e8ff8ccd5df168dbe53c4c7cb0fc97"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "019737abe9c9d7ef3638556e810babc2a3258a5c9be6cc15b79f780e71db7fa9"
+metafile = true
+
+[[files]]
+file = "mods/replantment.pw.toml"
+hash = "425fd854f190c77fb879cb8976bd44de2ccf209c3424da37142bf61c20034621"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "a112d883056e0934ca5f7d8718f5a2c5cf9d6d63ecb7e91754ba9dcee7bb799e"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "85ebe0d8d1f0f6bd943c1a87f5df47869fde7ede4d9d0bc90a2aff13a760c5dc"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "2520b331c2b0eb582b448c4ebf1a73d66d42184acc2d74912baef4140e05ee9b"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "d00b97509d85f51475e40884ea5f1eaae1947ac6be25562245a090d649b077dc"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "0c418eebfec7cdff06480f9a0174d82c19f73ae6ff1c50c00aef5efb4c633003"
+metafile = true

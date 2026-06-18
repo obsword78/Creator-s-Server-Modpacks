@@ -1,0 +1,13 @@
+name = "linkupcraft-07-2026"
+author = "CreatorFactorem"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3f14b5907c832df3e832e7d4c488c01366c2b108ff89b3f4cb909715a880e856"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.21.9"
