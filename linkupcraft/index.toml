@@ -16,11 +16,6 @@ hash = "95af66e81e1a34bcbda86cc45ad2fa6c94e94ebe62b186720a4271c754c9178f"
 metafile = true
 
 [[files]]
-file = "mods/async.pw.toml"
-hash = "7bdcd8deb71b5655deff932e22836aa937a2367d9687b2ebf668c3f0b6914f25"
-metafile = true
-
-[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "bc4ce5c913b803da7e696c527332f4862092e747d815595b3afc9eae330f03ba"
 metafile = true
