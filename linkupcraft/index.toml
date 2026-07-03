@@ -81,11 +81,6 @@ hash = "1e1bed0f92a2d37f4bb8f5140a8e83d804a44a9b4a51a1a86c340d206631b8cc"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d655305d7933a11ed9c0c8edb57868c053b9c995c121c00b47061cf0e098c92a"
 metafile = true
@@ -148,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "c7b6e4a7666e9e64a70df0b550db2e25f7150d4c1c2c2e79e81dfbc036ce3a25"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "7c3e4630b35b3525d740be5b81b69af1462c8431a617233f9b0dadebb28a4f54"
 metafile = true
 
 [[files]]
