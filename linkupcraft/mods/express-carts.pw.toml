@@ -1,13 +1,13 @@
 name = "Express Carts"
-filename = "expresscarts-fabric-1.3.0+1.21.9.jar"
+filename = "expresscarts-fabric-1.4.2+26.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Xog4t7Fl/versions/2J4B4mEc/expresscarts-fabric-1.3.0%2B1.21.9.jar"
+url = "https://cdn.modrinth.com/data/Xog4t7Fl/versions/y2Us3n1j/expresscarts-fabric-1.4.2%2B26.2.jar"
 hash-format = "sha512"
-hash = "777a60c400ded5e6d74361774dc6320e02ba76de780181ac56be9c33df2b627dd0aefddaf3c124185bc188d72d49ec58bf06bd3f356b5d572a3baae5aa4646ce"
+hash = "72bdfc0718d67fde511305468418a9a8cd2166d3e0036585498526e7160e347ec87a5f0144b4b08cdd1858c336793d8348fa5e0106838c75e8498484126e4494"
 
 [update]
 [update.modrinth]
 mod-id = "Xog4t7Fl"
-version = "2J4B4mEc"
+version = "y2Us3n1j"

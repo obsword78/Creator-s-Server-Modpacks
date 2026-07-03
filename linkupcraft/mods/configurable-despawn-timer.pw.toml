@@ -1,13 +1,13 @@
 name = "Configurable Despawn Timer"
-filename = "configurabledespawntimer-1.21.9-4.4.jar"
+filename = "configurabledespawntimer-26.2.0-4.5.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/9olMJ5Qp/versions/TwZFBhKI/configurabledespawntimer-1.21.9-4.4.jar"
+url = "https://cdn.modrinth.com/data/9olMJ5Qp/versions/rMl8iyLR/configurabledespawntimer-26.2.0-4.5.jar"
 hash-format = "sha512"
-hash = "0e743c0fb8bdfbd984778c7ba424a1bf1ebd8a098dfda9743d6167bbd17f363e2d494b0419f54a0940027239cee0ab973ebe96c220792edfbe15b90aa209d8db"
+hash = "200fa38a9c57af11c90e69ef1ce629b2373f6b228ab6575be66e35d133e8a235f0f4b843ccb4ee10bbd5f671e7a0b994d93b0abdd00476e001fc876a495ef349"
 
 [update]
 [update.modrinth]
 mod-id = "9olMJ5Qp"
-version = "TwZFBhKI"
+version = "rMl8iyLR"

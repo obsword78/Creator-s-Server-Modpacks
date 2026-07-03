@@ -1,0 +1,13 @@
+name = "Replenish Enchantment"
+filename = "replenish-26.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8bAvGuoW/versions/EdRnO1fh/replenish-26.2.jar"
+hash-format = "sha512"
+hash = "e2c77b253998537644522ca4917f42936f81587b8168139f3d6592287f1ef73fdc75b40207d42ead62612c30cc02fb9afbe613b09b9f34c4be367b8b7068c515"
+
+[update]
+[update.modrinth]
+mod-id = "8bAvGuoW"
+version = "EdRnO1fh"

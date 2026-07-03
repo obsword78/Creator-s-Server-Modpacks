@@ -1,13 +1,13 @@
 name = "Armor Stands"
-filename = "armorstands-2.2.3+1.21.9.jar"
+filename = "armorstands-fabric-3.0.4+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FlC9CXUY/versions/pTpZ1Otj/armorstands-2.2.3%2B1.21.9.jar"
+url = "https://cdn.modrinth.com/data/FlC9CXUY/versions/lV6sGGrC/armorstands-fabric-3.0.4%2B26.2.jar"
 hash-format = "sha512"
-hash = "16f74735eb6ae2b358ce8930e3278d03a388162937a2d92058a72a8afe24d3bde26741c93317eae0680f77bdbfc542175e069a71cae3cbf4589cae837974a2f1"
+hash = "1c3569c37cfc7fd8a60475372cbbeb6c7e932e29999f11c23cfed95b5aa22d1fdafc4fafe2eca16428dee35b43fcc2f3c9c1d8f4885f390fd0fe63f0463adecb"
 
 [update]
 [update.modrinth]
 mod-id = "FlC9CXUY"
-version = "pTpZ1Otj"
+version = "lV6sGGrC"
