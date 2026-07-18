@@ -71,6 +71,21 @@ hash = "8c91080e610d7c8c40ae6445d36af1cf591fe1ebf70718b3e6d4714232b23592"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "289599ac70b0f0a9a0055f1bd10fb7e2c38c540c3ef49db8779c5c3988a7455c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "c3d87832823c9a37dcca3bd2e82d7268428acdc2c676fbd66169b2b4b6eab271"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "f6ec50c8f2b00ab272b1bdd8d05aeb707ab0befe59661ab4bb1814f3d66f6d62"
+metafile = true
+
+[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "1e1bed0f92a2d37f4bb8f5140a8e83d804a44a9b4a51a1a86c340d206631b8cc"
 metafile = true
