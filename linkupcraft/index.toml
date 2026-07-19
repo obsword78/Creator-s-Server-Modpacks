@@ -41,6 +41,11 @@ hash = "de070e91008cddc50a394bd91d7060ab922d01b01a273a65e3964f2e63a74096"
 metafile = true
 
 [[files]]
+file = "mods/custom-paintings-mod.pw.toml"
+hash = "604cecbe4cd79320b8004a67a33fb556d12c92cb7251966385317cca35fad810"
+metafile = true
+
+[[files]]
 file = "mods/express-carts.pw.toml"
 hash = "5c5a1ef949ac28eae1062e51971ec93cc0606cc78a8d109af7d3bf3acfba2940"
 metafile = true
@@ -83,11 +88,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-optimization.pw.toml"
 hash = "c3d87832823c9a37dcca3bd2e82d7268428acdc2c676fbd66169b2b4b6eab271"
-metafile = true
-
-[[files]]
-file = "mods/immersive-paintings.pw.toml"
-hash = "f6ec50c8f2b00ab272b1bdd8d05aeb707ab0befe59661ab4bb1814f3d66f6d62"
 metafile = true
 
 [[files]]
