@@ -6,6 +6,11 @@ hash = "84964d9b2cd01717124dc627e008cdca778f7970509f04127945f9a5191fb463"
 metafile = true
 
 [[files]]
+file = "mods/anvians-lib.pw.toml"
+hash = "326f9e62356a90313952a04ba7bb20f93f2974a09e0d9d5f873349be195c0196"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "62feaecc7c5afcf698c72f5f5edfda9562a2b2b6da30868cd36474c813073348"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "497421d9c7549e8a1cbb08d9102ccbc48695aa96834daca398a5c1498670422a"
+metafile = true
+
+[[files]]
+file = "mods/chiseled-bookshelf-visualizer.pw.toml"
+hash = "a980ab3aaaf6a7a0fce92b6cc2a8f7f362478044ce460d32bccf8a208cc5607a"
 metafile = true
 
 [[files]]

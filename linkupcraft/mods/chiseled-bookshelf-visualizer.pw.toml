@@ -1,0 +1,13 @@
+name = "Chiseled Bookshelf Visualizer"
+filename = "chiseledbookshelfvisualizer-fabric-26.2-5.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SQeCtvGg/versions/DAjcyjWV/chiseledbookshelfvisualizer-fabric-26.2-5.1.0.jar"
+hash-format = "sha512"
+hash = "c6a8547ad689e5695c5135d9679ccdb0b43e8d50d67027c64bb04f2ad5f5837c84034cc16efff3004e9f1750b08780cd014266d9c4ce069d2cab8b01d6be4e8a"
+
+[update]
+[update.modrinth]
+mod-id = "SQeCtvGg"
+version = "DAjcyjWV"
