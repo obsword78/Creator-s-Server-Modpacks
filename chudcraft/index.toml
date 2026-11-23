@@ -1,2 +1,96 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/almanac.pw.toml"
+hash = "8c46380211b9985f7ccf97ff22644b22d74a32d8f72b1f9137a508624ef76bb7"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ff675667f4c6924a9eaebc42dc2df5306dc5e8b005e931d9d8b73cebad67d5eb"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "fb72a70cb53c63f1da4520c25c8a7d806cc1c733e827016615623b65d751852d"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "bb3966260841112fc0fc3ce954531e39455b4918b6846c8f58ea7161605cb157"
+metafile = true
+
+[[files]]
+file = "mods/fast-item-frames.pw.toml"
+hash = "15dc9ae2155cd0d81c79f71e3747fff188cd8ffa8626cc7e30d271e945c4c54e"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "3eb12471fce0aadbda432f7fd5ba4e2120e0e0ebbb3663eea756a17ec0254407"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "bae28aaf888e212a4310264a51e585aa252051fcc2467c309670c7786b923ee5"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "c54574e32b4cb65ed3999b45738bb9872d0f35c22e2dc9b3b6795e868e68e1cc"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5703b6163c4d57419252536c5b9d59d28baf71d33474dff381f05e8229952fe4"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "ff6f634392e5fefbad2b57257e99472c4d8e07ca348f50f0d01ad729b48e8e45"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "9ca98e65b9c56937c03c43d7fd3d1964f16ba5b674fc8a48bd4c493c749ec1b5"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "8ab8d9da45456dfc8146a7d4b4b4243c69ba5b4375d086f361bf23df6e14988a"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "d3e88a0c22f9fdd9e12f28e31350efc299ad4b0bda7864654993d6f849e1acf0"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6865b44c30baa85a87c344ac9d3e0eb0135e90b26a90a6dc28bf79a363170cf9"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9b0969e4afbc18124775c008361dc1cfb9a17e49098d93d067b6342a4a54427c"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "75be6187b3f6f38748ca854b1da827853575114ad7464e0196eb301974eecb90"
+metafile = true
+
+[[files]]
+file = "mods/zconfig.pw.toml"
+hash = "8078347c8e2fd79bbb3e414fd36bc319e2d043f8d3b955c14f430fee0b5d6843"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "30251fd69b2dedecb29bc22555c58ba4633cfcf93aea1d360a61dd16b1cd9e3f"
+metafile = true
