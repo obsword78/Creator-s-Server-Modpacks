@@ -21,11 +21,6 @@ hash = "fb72a70cb53c63f1da4520c25c8a7d806cc1c733e827016615623b65d751852d"
 metafile = true
 
 [[files]]
-file = "mods/fabricproxy-lite.pw.toml"
-hash = "bb3966260841112fc0fc3ce954531e39455b4918b6846c8f58ea7161605cb157"
-metafile = true
-
-[[files]]
 file = "mods/fast-item-frames.pw.toml"
 hash = "15dc9ae2155cd0d81c79f71e3747fff188cd8ffa8626cc7e30d271e945c4c54e"
 metafile = true
